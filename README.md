@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Server Side Programming Languange
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me: Instagram: tristiadis or email me at gusnaldikristiadis@gmail.com
+- Mahasiswa Ilmu Perpustakaan Universitas Diponegoro yang banting setir ke web development
 
 
 <!---
