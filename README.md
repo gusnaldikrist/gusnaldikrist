@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gusnaldi Kristiadi Syah
+- 👋 Hi, I’m Gusnaldi Kristiadi Syah undergraduate Library Science Student
 - 👀 I’m interested in Backend Developer
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Project
