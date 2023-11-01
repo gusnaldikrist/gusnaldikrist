@@ -3,7 +3,7 @@
 Saya adalah seorang mahasiswa jurusan Ilmu Perpustakaan dengan minat dalam Web Development. Saat ini, saya sedang fokus belajar dan berkembang di bidang Web Development Khususnya Go.
 
 ## 👨‍💻 Keahlian
-- Pustakawan [speerti manajemen perpustakaa, mengolah bahan pustaka, klasifikasi DDC, Integrted Library System dan lain-lain]
+- Pustakawan [seperti manajemen perpustakaa, mengolah bahan pustaka, klasifikasi DDC, Integrted Library System dan lain-lain]
 - Basics HTML, CSS dan Bootstrap
 - Basics Go
 
