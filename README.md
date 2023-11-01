@@ -1,9 +1,26 @@
-- 👋 Hi, I’m Gusnaldi Kristiadi Syah undergraduate Library Science Student
-- 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on Project
-- 📫 How to reach me: Instagram: tristiadis or email me at gusnaldikristiadis@gmail.com or LinkedIn: www.linkedin.com/in/tristiadis
-- Mahasiswa Ilmu Perpustakaan Universitas Diponegoro yang banting setir ke web development
+# Halo, Saya Gusnaldi Kristiadi Syah 👋
+
+Saya adalah seorang mahasiswa jurusan Ilmu Perpustakaan dengan minat dalam Web Development. Saat ini, saya sedang fokus belajar dan berkembang di bidang Web Development Khususnya Go.
+
+## 👨‍💻 Keahlian
+- Pustakawan [speerti manajemen perpustakaa, mengolah bahan pustaka, klasifikasi DDC, Integrted Library System dan lain-lain]
+- Basics HTML, CSS dan Bootstrap
+- Basics Go
+
+## 🌱 Saat Ini Saya Sedang Mempelajari
+- Go
+
+## 🤝 Kolaborasi
+Saya terbuka untuk kolaborasi dalam proyek-proyek open source dan berkontribusi dalam pengembangan perangkat lunak. Jika Anda tertarik untuk bekerja bersama, jangan ragu untuk menghubungi saya.
+
+## 📫 Cara Menghubungi Saya
+Anda dapat menghubungi saya melalui [Email](mailto:gusnaldikrist@gmail.com) atau melalui akun [Instagram](https://www.instagram.com/tristiadis/).
+
+## 🌐 Kunjungi Juga
+Situs web pribadi: (http://tristiadis.live/)
+
+Terima kasih telah mengunjungi profil GitHub saya!
+
 
 
 <!---
