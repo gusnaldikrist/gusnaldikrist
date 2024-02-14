@@ -1,7 +1,6 @@
 # Halo, Saya Gusnaldi Kristiadi Syah 👋
 
-Saya adalah seorang mahasiswa jurusan Ilmu Perpustakaan dengan minat dalam Web Development. Saat ini, saya sedang fokus belajar dan berkembang di bidang Web Development Khususnya Go.
-
+Saya adalah seorang mahasiswa jurusan Ilmu Perpustakaan dengan minat terhadap programming. Saat ini, saya sedang belajar Cloud Computing sebagai Bangkit Academy Cohort.
 ## 👨‍💻 Keahlian
 - Pustakawan [seperti manajemen perpustakaan, mengolah bahan pustaka, klasifikasi DDC, Integrated Library System dan lain-lain]
 - Basics HTML, CSS dan Bootstrap
