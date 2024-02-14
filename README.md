@@ -7,7 +7,7 @@ Saya adalah seorang mahasiswa jurusan Ilmu Perpustakaan dengan minat terhadap pr
 - Basics Go
 
 ## 🌱 Saat Ini Saya Sedang Mempelajari
-- Go
+- Cloud Computing
 
 ## 🤝 Kolaborasi
 Saya terbuka untuk kolaborasi dalam proyek-proyek open source dan berkontribusi dalam pengembangan perangkat lunak. Jika Anda tertarik untuk bekerja bersama, jangan ragu untuk menghubungi saya.
