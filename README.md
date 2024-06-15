@@ -3,8 +3,7 @@
 Saya adalah seorang mahasiswa jurusan Ilmu Perpustakaan dengan minat terhadap programming. Saat ini, saya sedang belajar Cloud Computing sebagai Bangkit Academy Cohort.
 ## 👨‍💻 Keahlian
 - Pustakawan [seperti manajemen perpustakaan, mengolah bahan pustaka, klasifikasi DDC, Integrated Library System dan lain-lain]
-- Basics HTML, CSS dan Bootstrap
-- Basics Go
+- Basics HTML, CSS, Javascript dan Bootstrap
 
 ## 🌱 Saat Ini Saya Sedang Mempelajari
 - Cloud Computing
