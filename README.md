@@ -1,35 +1,44 @@
-# Halo, Saya Gusnaldi Kristiadi Syah 👋
+# Hi there, I'm Gusnaldi 👋
 
-Saya adalah seorang mahasiswa jurusan Ilmu Perpustakaan dengan minat terhadap programming. Saat ini, saya sedang belajar Cloud Computing sebagai Bangkit Academy Cohort.
-## 👨‍💻 Keahlian
-- Pustakawan [seperti manajemen perpustakaan, mengolah bahan pustaka, klasifikasi DDC, Integrated Library System dan lain-lain]
-- Basics HTML, CSS, Javascript dan Bootstrap
+**Pustakawan | AI & Tech Enthusiast **
 
-## 🌱 Saat Ini Saya Sedang Mempelajari
-- Cloud Computing
+Saya adalah seorang pustakawan yang bersemangat dalam menggabungkan tata kelola informasi tradisional dengan inovasi teknologi modern. Saat ini, saya berfokus pada pengembangan sistem repositori, digitalisasi data, dan pemanfaatan AI untuk mengoptimalkan layanan perpustakaan dan riset akademik.
 
-## 🤝 Kolaborasi
-Saya terbuka untuk kolaborasi dalam proyek-proyek open source dan berkontribusi dalam pengembangan perangkat lunak. Jika Anda tertarik untuk bekerja bersama, jangan ragu untuk menghubungi saya.
+📫 **Hubungi saya:** [gusnaldikrist@gmail.com](mailto:gusnaldikrist@gmail.com) | 🌐 **Portofolio:** [portofolio-tristiadis.vercel.app](https://portofolio-gusnaldikrist.vercel.app/)
 
-## 📫 Cara Menghubungi Saya
-Anda dapat menghubungi saya melalui [Email](mailto:gusnaldikrist@gmail.com) atau melalui akun [Instagram](https://www.instagram.com/tristiadis/).
+---
 
-## 🌐 Kunjungi Juga
-Situs web pribadi: (http://tristiadis.live/)
+### 🛠️ Keahlian & Teknologi
 
-## Github Statistic
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gusnaldikrist&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gusnaldikrist&layout=compact&theme=algolia"/>
-</a>
-</p>
+**Perpustakaan & Riset:**
+![SLiMS](https://img.shields.io/badge/SLiMS-Library_System-blue?style=flat-square)
+![InlisLite](https://img.shields.io/badge/InlisLite-Library_System-blue?style=flat-square)
+![Mendeley](https://img.shields.io/badge/Mendeley-Reference_Manager-red?style=flat-square)
+![VOSviewer](https://img.shields.io/badge/VOSviewer-Bibliometrics-red?style=flat-square)
+![Turnitin](https://img.shields.io/badge/Turnitin-Plagiarism_Check-orange?style=flat-square)
 
-Terima kasih telah mengunjungi profil GitHub saya!
+**Teknologi & Web:**
+![Claude AI](https://img.shields.io/badge/Claude_AI-Prompt_Engineering-D97757?style=flat-square)
+![Spreadsheet](https://img.shields.io/badge/Spreadsheet-Data_Management-107C41?style=flat-square)
 
+---
 
+### 🔭 Apa yang sedang saya kerjakan saat ini?
+- 📚 **SUAKA (Sistem Unggah Akses Karya Ilmiah):** Mengembangkan inovasi sistem repositori skripsi mandiri menggunakan pendekatan Agentic AI.
+- 📊 **Manajemen Jurnal & Skripsi:** Digitalisasi ribuan data skripsi dan metadata untuk keperluan riset dan _Systematic Literature Review_ (SLR).
+- 🎨 **Eksplorasi UI/UX & Web Dev:** Membangun antarmuka modern yang fungsional (seperti portofolio dengan desain *Neo Brutalism*).
 
-<!---
-gusnaldikrist/gusnaldikrist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🌱 Publikasi Terbaru
+- **Analisis Bibliometrik Kajian Fenomenologi pada Skripsi Mahasiswa Ilmu Komunikasi Universitas Garut** *(Jurnal Ilmu Perpustakaan, 2025)*
+- **ChatGPT Potential for Improving Library Services** *(Prosiding ICOCAS, 2024)*
+
+---
+
+### ⚡ Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gusnaldikrist&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Gusnaldi's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gusnaldikrist&theme=radical&hide_border=true" alt="Gusnaldi's Streak" />
+</div>
