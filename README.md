@@ -4,7 +4,7 @@
 
 Saya adalah seorang pustakawan yang bersemangat dalam menggabungkan tata kelola informasi tradisional dengan inovasi teknologi modern. Saat ini, saya berfokus pada pengembangan sistem repositori, digitalisasi data, dan pemanfaatan AI untuk mengoptimalkan layanan perpustakaan dan riset akademik.
 
-📫 **Hubungi saya:** [gusnaldikrist@gmail.com](mailto:gusnaldikrist@gmail.com) | 🌐 **Portofolio:** [portofolio-tristiadis.vercel.app](https://portofolio-gusnaldikrist.vercel.app/)
+📫 **Hubungi saya:** [gusnaldikrist@gmail.com](mailto:gusnaldikrist@gmail.com) | 🌐 **Portofolio:** [tristiadis.vercel.app]([https://portofolio-gusnaldikrist.vercel.app/](https://tristiadis.vercel.app/))
 
 ---
 
