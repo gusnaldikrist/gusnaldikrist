@@ -1,42 +1,41 @@
 # Hi there, I'm Gusnaldi 👋
 
-**Pustakawan | AI & Tech Enthusiast **
+> *librarian by day, tech enthusiast always*
 
-Saya adalah seorang pustakawan yang bersemangat dalam menggabungkan tata kelola informasi tradisional dengan inovasi teknologi modern. Saat ini, saya berfokus pada pengembangan sistem repositori, digitalisasi data, dan pemanfaatan AI untuk mengoptimalkan layanan perpustakaan dan riset akademik.
+Sehari-hari berkutat dengan dunia perpustakaan dan tata kelola informasi, sambil terus ngulik tools modern dan AI untuk bikin kerjaan jadi lebih efisien dan praktis.
 
-📫 **Hubungi saya:** [gusnaldikrist@gmail.com](mailto:gusnaldikrist@gmail.com) | 🌐 **Portofolio:** [tristiadis.vercel.app]([https://portofolio-gusnaldikrist.vercel.app/](https://tristiadis.vercel.app/))
-
----
-
-### 🛠️ Keahlian & Teknologi
-
-**Perpustakaan & Riset:**
-![SLiMS](https://img.shields.io/badge/SLiMS-Library_System-blue?style=flat-square)
-![InlisLite](https://img.shields.io/badge/InlisLite-Library_System-blue?style=flat-square)
-![Mendeley](https://img.shields.io/badge/Mendeley-Reference_Manager-red?style=flat-square)
-![VOSviewer](https://img.shields.io/badge/VOSviewer-Bibliometrics-red?style=flat-square)
-![Turnitin](https://img.shields.io/badge/Turnitin-Plagiarism_Check-orange?style=flat-square)
-
-**Teknologi & Web:**
-![Claude AI](https://img.shields.io/badge/Claude_AI-Prompt_Engineering-D97757?style=flat-square)
-![Spreadsheet](https://img.shields.io/badge/Spreadsheet-Data_Management-107C41?style=flat-square)
+📫 **Kontak:** [gusnaldikrist@gmail.com](mailto:gusnaldikrist@gmail.com) | 🌐 **Portofolio:** [tristiadis.vercel.app](https://tristiadis.vercel.app/)
 
 ---
 
-### 🔭 Apa yang sedang saya kerjakan saat ini?
-- 📚 **SUAKA (Sistem Unggah Akses Karya Ilmiah):** Mengembangkan inovasi sistem repositori skripsi mandiri menggunakan pendekatan Agentic AI.
-- 📊 **Manajemen Jurnal & Skripsi:** Digitalisasi ribuan data skripsi dan metadata untuk keperluan riset dan _Systematic Literature Review_ (SLR).
-- 🎨 **Eksplorasi UI/UX & Web Dev:** Membangun antarmuka modern yang fungsional (seperti portofolio dengan desain *Neo Brutalism*).
+### 🔨 Daily Tools & Environment
+
+![Antigravity](https://img.shields.io/badge/Google_Antigravity-Agentic_AI-4285F4?style=flat-square&logo=google)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![SLiMS](https://img.shields.io/badge/SLiMS-Library_System-007ACC?style=flat-square)
+![Excel](https://img.shields.io/badge/Spreadsheet_%2F_Excel-Data_Work-107C41?style=flat-square&logo=microsoftexcel&logoColor=white)
+![VOSviewer](https://img.shields.io/badge/VOSviewer-Bibliometrics-9C27B0?style=flat-square)
+![Mendeley](https://img.shields.io/badge/Mendeley-Reference-D40000?style=flat-square&logo=mendeley&logoColor=white)
 
 ---
 
-### 🌱 Publikasi Terbaru
+### 📦 Yang Lagi / Pernah Dioprek
+
+- 🔍 **[pindex](https://github.com/gusnaldikrist/pindex)** — Aplikasi desktop Windows untuk cari dan mengorganisir dokumen kerja lokal secara offline.
+- 📑 **[slims-export-koleksi-excel](https://github.com/gusnaldikrist/slims-export-koleksi-excel)** — Plugin SLiMS 9 Bulian untuk ekspor data koleksi bibliografi & eksemplar fisik langsung ke file Excel (`.xlsx`).
+- 📈 **[BiblioSheet](https://github.com/gusnaldikrist/BiblioSheet)** — Eksplorasi dashboard analisis bibliometrik sederhana.
+- 📚 **SUAKA** — Eksplorasi repositori karya ilmiah mandiri untuk lingkungan akademik.
+
+---
+
+### 🌱 Publikasi
+
 - **Analisis Bibliometrik Kajian Fenomenologi pada Skripsi Mahasiswa Ilmu Komunikasi Universitas Garut** *(Jurnal Ilmu Perpustakaan, 2025)*
 - **ChatGPT Potential for Improving Library Services** *(Prosiding ICOCAS, 2024)*
 
 ---
 
-### ⚡ Github Stats
+### ⚡ GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gusnaldikrist&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Gusnaldi's GitHub Stats" />
